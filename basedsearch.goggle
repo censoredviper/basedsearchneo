@@ -4,6 +4,7 @@
 ! author: anon
 ! avatar: #000000
 
+$discard
 
 $boost,site=frenschan.org
 $boost,site=mediamonarchy.com
